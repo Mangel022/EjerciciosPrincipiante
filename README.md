@@ -51,3 +51,6 @@ Realizar todos los ejercicios
 8.Realiza un script que pida número de filas y columnas y escriba una tabla. Dentro cada una de las celdas deberá escribirse un número consecutivo en orden descendente. Si, por ejemplo, la tabla es de 7×5 los números irán del 35 al 1.
 9.Realiza un script que pida por teclado 3 edades y 3 nombres e indique el nombre del mayor
 10.Realiza un script que genere un número aleatorio entre 1 y 99
+
+
+NOTA :  cada uno cree una carpeta que los identifique cada uno ejm : carpeta de william o salomon. Hay va estar realizado todos los ejercicios sin afectar el index de la carpeta de raiz.
